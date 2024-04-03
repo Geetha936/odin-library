@@ -1,0 +1,14 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.flex-container{
+    display: flex;
+}
+#header {
+    text-align: center;
+}
+
+body{
+    background: darkgray;
+}
